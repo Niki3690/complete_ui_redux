@@ -8,4 +8,3 @@ let Store = configureStore({
 });
 
 export default Store;
-  
